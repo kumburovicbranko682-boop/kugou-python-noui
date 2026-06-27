@@ -1,0 +1,12 @@
+{
+  "singer_whitelist": [],
+  "song_whitelist": [],
+  "blacklist_keywords": ["9178", "7891"],
+  "class_control": {
+    "enabled": false,
+    "processes": [],
+    "periods": []
+  },
+  "version": "1.0.0",
+  "updated_at": "2026-01-01T00:00:00"
+}
