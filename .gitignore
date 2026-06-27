@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+ENV/
+
+# Build outputs
+build/
+dist/
+*.spec.tmp
+*.log
+*.tmp
+
+# Local runtime/config
+kg_server.txt
+server/kugou_config.json
+logs/
+.mitmproxy/
+*.pem
+*.p12
+*.cer
+*.crt
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Executables and archives
+*.exe
+*.dll
+*.zip
+*.7z
+*.rar
